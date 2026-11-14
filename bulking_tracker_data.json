@@ -1,0 +1,98 @@
+{
+  "version": "1.0",
+  "last_saved": "2026-11-14T17:15:26.735131",
+  "settings": {
+    "weight_kg": 63.2,
+    "goal_weight_kg": 70.0,
+    "height_cm": 180.0,
+    "age": 21,
+    "gender": "Male",
+    "activity_level": "Moderate (4x/week strength training)",
+    "surplus_kcal": 350,
+    "use_manual_targets": true,
+    "target_calories": 2900.0,
+    "target_protein": 120.0,
+    "target_carbs": 380.0,
+    "target_fat": 80.0
+  },
+  "food_library": [
+    {
+      "id": "staple-rice",
+      "name": "Basmati Rice (dry weight)",
+      "unit_type": "100g",
+      "calories": 367.0,
+      "protein": 6.7,
+      "carbs": 80.0,
+      "fat": 0.7,
+      "serving_desc": "Raw/dry unboiled rice",
+      "is_staple": true
+    },
+    {
+      "id": "staple-plov",
+      "name": "Buckwheat Plov with But Şiş (1 container/portion)",
+      "unit_type": "serving",
+      "calories": 1087.0,
+      "protein": 41.5,
+      "carbs": 159.5,
+      "fat": 30.9,
+      "serving_desc": "1 full meal container",
+      "is_staple": true
+    },
+    {
+      "id": "staple-chicken",
+      "name": "Chicken Thighs / But Şiş (raw weight)",
+      "unit_type": "100g",
+      "calories": 200.0,
+      "protein": 17.0,
+      "carbs": 0.0,
+      "fat": 15.0,
+      "serving_desc": "Skinless chicken thigh chunks",
+      "is_staple": true
+    },
+    {
+      "id": "staple-shake",
+      "name": "Bulking Oat & peanut butter Shake (1 serving)",
+      "unit_type": "serving",
+      "calories": 1100.0,
+      "protein": 44.0,
+      "carbs": 87.5,
+      "fat": 70.0,
+      "serving_desc": "Milk, oats,  peanut butter",
+      "is_staple": true
+    },
+    {
+      "id": "staple-egg",
+      "name": "Whole Egg (1 large)",
+      "unit_type": "serving",
+      "calories": 75.0,
+      "protein": 6.3,
+      "carbs": 0.6,
+      "fat": 5.3,
+      "serving_desc": "1 large raw or boiled egg",
+      "is_staple": true
+    }
+  ],
+  "daily_logs": {
+    "2026-11-14": [
+      {
+        "id": "b1926fb9",
+        "name": "Bulking Oat & peanut butter Shake (1 serving)",
+        "meal_type": "Lunch",
+        "quantity": 1.0,
+        "unit_label": "serving(s)",
+        "calories": 1100.0,
+        "protein": 44.0,
+        "carbs": 87.5,
+        "fat": 70.0,
+        "food_id": "staple-shake"
+      }
+    ]
+  },
+  "weight_history": {
+    "2026-11-14": {
+      "date": "2026-11-14",
+      "weight_kg": 63.2,
+      "note": "Baseline weight"
+    }
+  }
+}
